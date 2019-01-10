@@ -41,7 +41,7 @@ PHPの実行方法はいくつかありますが、今回はApacheが使えな�
 
 URLの先頭をftp形式ではなく、URL形式に変更します。
 
-> http://www.ドメイン.com/該当するディレクトリ/delete.php」
+> http://www.ドメイン.com/該当するディレクトリ/delete.php
 
 あとはそのURLをブラウザで開くだけです。これでApacheの権限は無効化されました。
 
